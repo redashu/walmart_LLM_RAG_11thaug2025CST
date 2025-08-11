@@ -7,3 +7,7 @@
 ### GenAI 
 
 <img src="ai2.png">
+
+## LLM info 
+
+<img src="ai3.png">
