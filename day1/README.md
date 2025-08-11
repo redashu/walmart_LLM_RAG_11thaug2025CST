@@ -22,6 +22,15 @@
 
 ## at basic level LLM with respect to a user of LLM 
 
-
 <img src="ai6.png">
+
+### tokenization in LLM 
+
+<img src="ai7.png">
+
+### overall any LLM is following given stack to generate response of given INput/prompt by user
+
+<img src="ai8.png">
+
+
 
