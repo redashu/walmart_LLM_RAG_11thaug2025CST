@@ -11,3 +11,17 @@
 ## LLM info 
 
 <img src="ai3.png">
+
+### More FM info 
+
+<img src="ai4.png">
+
+### LLM as stack understanding 
+
+<img src="ai5.png">
+
+## at basic level LLM with respect to a user of LLM 
+
+
+<img src="ai6.png">
+
