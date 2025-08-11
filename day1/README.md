@@ -32,5 +32,11 @@
 
 <img src="ai8.png">
 
+### accessing LLM methods 
 
 
+<img src="ai9.png">
+
+### checking few details in google colab notebook 
+
+<img src="ai10.png">
