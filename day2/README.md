@@ -98,3 +98,6 @@ Suggest the best inventory action for the following Walmart store update.
 
 <img src="lang1.png">
 
+### Understanding RAG 
+
+<img src="lang2.png">
