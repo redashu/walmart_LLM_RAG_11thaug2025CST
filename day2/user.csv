@@ -1,0 +1,11 @@
+id,name,email,department,position,salary,hire_date
+1,John Doe,john@example.com,Engineering,Software Engineer,95000,2020-05-15
+2,Jane Smith,jane@example.com,Marketing,Marketing Manager,85000,2019-11-20
+3,Robert Johnson,robert@example.com,HR,HR Specialist,75000,2021-03-10
+4,Emily Davis,emily@example.com,Finance,Financial Analyst,90000,2018-07-22
+5,Michael Brown,michael@example.com,Engineering,Senior Developer,110000,2017-09-05
+6,Sarah Wilson,sarah@example.com,Marketing,Content Writer,70000,2022-01-30
+7,David Lee,david@example.com,IT,System Administrator,80000,2020-08-14
+8,Jennifer Clark,jennifer@example.com,Finance,Accountant,85000,2019-04-18
+9,Thomas Moore,thomas@example.com,Engineering,DevOps Engineer,105000,2021-06-25
+10,Lisa Taylor,lisa@example.com,HR,Recruiter,78000,2022-03-12
