@@ -92,3 +92,9 @@ Suggest the best inventory action for the following Walmart store update.
 - Step 3: Next restock is in 5 days, risk of stockout before delivery.
 - Step 4: Best action — expedite restocking or source from nearby stores to avoid lost sales.
 - **Final action:** Expedite restock or transfer inventory from nearby locations.
+
+
+## prompt templating using LangChain 
+
+<img src="lang1.png">
+
