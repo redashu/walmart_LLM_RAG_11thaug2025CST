@@ -19,3 +19,7 @@
 ## Introduction to azure openai & azure AI search (cognitive search)
 
 <img src="rag2.png">
+
+### RAG with azure openAI 
+
+<img src="rag3.png">
