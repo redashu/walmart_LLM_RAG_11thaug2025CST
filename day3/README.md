@@ -11,3 +11,7 @@
 ### more info about RAG 
 
 <img src="rev3.png">
+
+## Understanding RAG with FAISS vector Db 
+
+<img src="rag1.png">
