@@ -15,3 +15,7 @@
 ## Understanding RAG with FAISS vector Db 
 
 <img src="rag1.png">
+
+## Introduction to azure openai & azure AI search (cognitive search)
+
+<img src="rag2.png">
