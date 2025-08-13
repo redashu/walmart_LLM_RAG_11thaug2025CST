@@ -23,3 +23,10 @@
 ### RAG with azure openAI 
 
 <img src="rag3.png">
+
+
+### running streamlit app 
+
+```
+streamlit run  streamapp.py 
+```
