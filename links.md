@@ -10,3 +10,9 @@
 
 [click_here](https://pypi.org/project/openai/)
 
+### Gradio 
+
+[click_here](https://www.gradio.app/docs)
+
+
+
